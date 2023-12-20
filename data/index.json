@@ -1,0 +1,113 @@
+{
+    "jobTitle": [
+        {
+            "title": "a ",
+            "color": "rgb(57, 153, 0)"
+        },
+        {
+            "title": "a ",
+            "color": "rgb(157, 100, 0)"
+        },
+        {
+            "title": "a ",
+            "color": "rgb(153, 76, 150)"
+        },
+        {
+            "title": "an ",
+            "color": "rgb(0, 172, 230)"
+        }    
+    ],
+    "about": [
+        "I am a self-motivated, enthusiastic, responsible and reliable individual.",
+        "Being an independent person I have the ability to work in harmony with team members.",
+        "My personal trait is characterized by having structure which imposes the best outcome.",
+        "I am ready to make my mark and start the process of cementing my future and career path."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2019,
+            "description": "I Matriculated",
+            "place": "Bloubergrant High School",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "I Started studing and working at Astron Energy",
+            "place": "Astron Energy Refinery",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+        },
+        {
+            "id": 3,
+            "year": 2023,
+            "description": "I Started studying at BAB Developers",
+            "place": "BAB Developers",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
+        }
+       
+    ],
+    "skills": [
+        {
+            "title": "",
+            "experience": ""
+        },
+        {
+            "title": "",
+            "experience": ""
+        },
+        {
+            "title": "",
+            "experience": ""
+        },
+        {
+            "title": "",
+            "experience": ""
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Ishmael",
+            "surname": "Brown",
+            "quotes": "",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "",
+            "surname": "",
+            "quotes": "",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "",
+            "surname": "",
+            "quotes": "",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": " P",
+            "surname": "",
+            "quotes": "",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        }
+    ]
+}
