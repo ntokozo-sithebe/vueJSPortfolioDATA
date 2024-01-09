@@ -18,7 +18,7 @@
         }    
     ],
     "about": [
-        "I am a self-motivated, enthusiastic, responsible and reliable individual.",
+        "I am a self-motivated, enthusiastic individual.",
         "Being an independent person I have the ability to work in harmony with team members.",
         "My personal trait is characterized by having structure which imposes the best outcome.",
         "I am ready to make my mark and start the process of cementing my future and career path."
@@ -52,46 +52,61 @@
     ],
     "skills": [
         {
-            "title": "",
-            "experience": ""
+            "title": "People Skills",
+            "experience": "Multiply Community services and Retail and Network Marketing Business"
         },
         {
-            "title": "",
-            "experience": ""
+            "title": "Html",
+            "experience": "LifeChoices"
         },
         {
-            "title": "",
-            "experience": ""
+            "title": "CSS",
+            "experience": "LifeChoices"
         },
         {
-            "title": "",
-            "experience": ""
+            "title": "Bootstrap",
+            "experience": "LifeChoices"
+        },
+        {
+            "title": "Javascript",
+            "experience": "LifeChoices"
+        },
+        {
+            "title": "Vue-JS",
+            "experience": "LifeChoices"
         }
+
     ],
     "testimonials": [
         {
             "name": "Ishmael",
             "surname": "Brown",
-            "quotes": "",
-            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+            "quotes": "Ntokozo has consistently demonstrated exceptional dedication and commitment during her learnership. Her academic performance has been outstanding,consistently ranking at the top of her class. In particular, I found her ability to grasp new concepts such as Chemistry, Environmental Awareness and Problem Solving particularly pleasing. Her ability to grasp complex concepts and solve problems with ease is a testament to her strong analytical skills and unwavering determination",
+            "profile": "https://drive.google.com/uc?id=18q6mKrfCHH4YETvy0OMUWLp5A__H1OZC"
+        },
+        {
+            "name": "Natasha ",
+            "surname": "Kapeyi",
+            "quotes": "I have no doubt that Ntokozo Sithebe possesses the qualities necessary for success in her future endeavours. Her passion for learning, their ability to adapt and overcome challenges, and her commitment to excellence make her an outstanding individual. I wholeheartedly recommend Ntokozo for any academic or professional pursuit she elects to embark on",
+            "profile": "https://drive.google.com/uc?id=18q6mKrfCHH4YETvy0OMUWLp5A__H1OZC"
+        },
+        {
+            "name": "Nathalie",
+            "surname": "WIllimse",
+            "quotes": "I highly recommend Ntokozo Sithebe as a software developer. Her technical expertise, commitment to quality, and strong communication skills make her an asset to any team. I look forward to the opportunity to work with them again in the future",
+            "profile": " "
         },
         {
             "name": "",
             "surname": "",
             "quotes": "",
-            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
-        },
-        {
-            "name": "", 
-            "surname": "",
-            "quotes": "",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         },
         {
-            "name": " P",
-            "surname": "",
-            "quotes": "",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "name": "Sibusiso",
+            "surname": "Macwili",
+            "quotes": "Ntokozo's eagerness to learn is ",
+            "profile": "https://drive.google.com/uc?id=1FXB-P2gAWpPW8lBHILsoVftmFChlYPVh"
         }
     ],
     "projects":[
