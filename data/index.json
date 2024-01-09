@@ -59,60 +59,63 @@
             "experience": "Multiply Community services and Retail and Network Marketing Business"
         },
         {
-            "title": "Html",
-            "experience": "LifeChoices"
+            "title": "Html"
+           
         },
         {
-            "title": "CSS",
-            "experience": "LifeChoices"
+            "title": "CSS"
         },
         {
-            "title": "Bootstrap",
-            "experience": "LifeChoices"
+            "title": "Bootstrap"
+            
         },
         {
-            "title": "Javascript",
-            "experience": "LifeChoices"
+            "title": "Javascript"
+            
         },
         {
-            "title": "Vue-JS",
-            "experience": "LifeChoices"
+            "title": "Vue-JS"
+            
         }
 
     ],
     "testimonials": [
-        {
+        {   "id": 1,
             "name": "Ishmael",
             "surname": "Brown",
             "quotes": "Ntokozo has consistently demonstrated exceptional dedication and commitment during her learnership. Her academic performance has been outstanding,consistently ranking at the top of her class. In particular, I found her ability to grasp new concepts such as Chemistry, Environmental Awareness and Problem Solving particularly pleasing. Her ability to grasp complex concepts and solve problems with ease is a testament to her strong analytical skills and unwavering determination",
             "profile": "https://drive.google.com/uc?id=18q6mKrfCHH4YETvy0OMUWLp5A__H1OZC"
         },
-        {
-            "name": "Natasha ",
-            "surname": "Kapeyi",
+        {   "id": 2,
+            "name": "Phinda",
+            "surname": "Fortuin",
             "quotes": "I have no doubt that Ntokozo Sithebe possesses the qualities necessary for success in her future endeavours. Her passion for learning, their ability to adapt and overcome challenges, and her commitment to excellence make her an outstanding individual. I wholeheartedly recommend Ntokozo for any academic or professional pursuit she elects to embark on",
-            "profile": "https://drive.google.com/uc?id=18q6mKrfCHH4YETvy0OMUWLp5A__H1OZC"
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         },
-        {
-            "name": "Nathalie",
-            "surname": "WIllimse",
+        {   "id": 3,
+            "name": "Simamkele",
+            "surname": "Tancu",
             "quotes": "I highly recommend Ntokozo Sithebe as a software developer. Her technical expertise, commitment to quality, and strong communication skills make her an asset to any team. I look forward to the opportunity to work with them again in the future",
-            "profile": " "
+            "profile": "https://drive.google.com/uc?id=1vEgLYUnHGzqLdiuCNZeDx4Dh_jPYnyO5"
         },
-        {
+        {   "id": 4,
+            "name": "Thimna",
+            "surname": "Alam",
+            "quotes": "Ntokozo is the most goal driven person I have ever met. She is always willing to learn - curious in other words. Her brightest feature is her boldness - she is never afraid to speak her mind, her truth and her timing at that is amazing. Among all her amazing features she is well- mannered, respectful of her surroundings and focused.",
+          "profile": ""
+        }, 
+        {   "id": 5,
             "name": "",
             "surname": "",
             "quotes": "",
-          "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
-        },
-=======
-            
+          "profile": ""
+        }, 
        
-        {
-            "name": "Sibusiso",
-            "surname": "Macwili",
-            "quotes": "Ntokozo's eagerness to learn is ",
-            "profile": "https://drive.google.com/uc?id=1FXB-P2gAWpPW8lBHILsoVftmFChlYPVh"
+        {   "id": 6,
+            "name": "Seth",
+            "surname": "Tobias",
+            "quotes": "Ntokozo is a very bright person. She has a very bubbly and friendly personality. She is a very mindful person and appreciates all the small things in life. She is also quite inspirational as her outlook on life is quite profound and eye opening. Her smile brightens any room she walks into. She has a way with people and has a calming aura",
+            "profile": "https://drive.google.com/uc?id=1vEgLYUnHGzqLdiuCNZeDx4Dh_jPYnyO5"
         }
     ],
     "projects":[
@@ -138,7 +141,7 @@
             "netlify": ""
         },
         {
-            "name": "Ntokozo's Portfolio",
+            "name": "Bootstrap Portfolio",
             "description": "",
             "image": "",
             "gitHub": "https://github.com/ntokozo-sithebe/Ntokozo-s-Portfolio.git",
