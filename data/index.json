@@ -114,7 +114,7 @@
             "name": "Calculator",
             "description": "",
             "image": "",
-            "gitHub": "",
+            "gitHub": "https://github.com/ntokozo-sithebe/my_Calculator.git",
             "netlify": ""
         },
         {
@@ -123,6 +123,35 @@
             "image": "",
             "gitHub": "",
             "netlify": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "Ntokozo's Portfolio",
+            "description": "",
+            "image": "",
+            "gitHub": "https://github.com/ntokozo-sithebe/Ntokozo-s-Portfolio.git",
+            "netlify": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "Fine SKN e-commerce",
+            "description": "",
+            "image": "https://drive.google.com/uc?id=1rrv1Rv-lrqNrtC9oQ7imPkx_joM8fLTz",
+            "gitHub": "https://github.com/ntokozo-sithebe/fineSkn_--ecommerce.git",
+            "netlify": "https://silver-lebkuchen-2176b2.netlify.app/"
         }
+
     ]
 }
