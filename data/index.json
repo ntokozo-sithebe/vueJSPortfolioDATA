@@ -100,7 +100,7 @@
             "name": "",
             "surname": "",
             "quotes": "",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "profile": ""
         },
         {
             "name": "Sibusiso",
@@ -113,7 +113,7 @@
         {
             "name": "Calculator",
             "description": "",
-            "image": "",
+            "image": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png",
             "gitHub": "https://github.com/ntokozo-sithebe/my_Calculator.git",
             "netlify": ""
         },
