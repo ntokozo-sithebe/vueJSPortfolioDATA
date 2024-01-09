@@ -82,7 +82,7 @@
             "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
         },
         {
-            "name": "",
+            "name": "", 
             "surname": "",
             "quotes": "",
             "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
@@ -96,14 +96,14 @@
     ],
     "projects":[
         {
-            "name": "",
+            "name": "Calculator",
             "description": "",
             "image": "",
             "gitHub": "",
             "netlify": ""
         },
         {
-            "name": "",
+            "name": "Keyboard",
             "description": "",
             "image": "",
             "gitHub": "",
