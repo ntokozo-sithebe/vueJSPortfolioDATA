@@ -1,27 +1,30 @@
 {
     "jobTitle": [
         {
-            "title": "a ",
+            "title": "I am a Business Owner",
             "color": "rgb(57, 153, 0)"
         },
         {
-            "title": "a ",
+            "title": "I am a creator ",
             "color": "rgb(157, 100, 0)"
         },
         {
-            "title": "a ",
+            "title": "I am Ntokozo",
             "color": "rgb(153, 76, 150)"
         },
         {
-            "title": "an ",
+            "title": "I am an artist ",
             "color": "rgb(0, 172, 230)"
         }    
     ],
-    "about": [
-        "I am a self-motivated, enthusiastic individual.",
-        "Being an independent person I have the ability to work in harmony with team members.",
-        "My personal trait is characterized by having structure which imposes the best outcome.",
-        "I am ready to make my mark and start the process of cementing my future and career path."
+    "about": [{
+
+        "title": "I am a self-motivated, enthusiastic individual.Being an independent person I have the ability to work in harmony with team members.My personal trait is characterized by having structure which imposes the best outcome, I am ready to make my mark and start the process of cementing my future and career path."
+    },
+    {
+        "image":"https://drive.google.com/uc?id=1jllZnOfng33AE1y3o0bsofBCnoziGl8D"
+    }
+        
     ],
     "education": [
         {
@@ -100,8 +103,11 @@
             "name": "",
             "surname": "",
             "quotes": "",
-            "profile": ""
+          "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
         },
+=======
+            
+       
         {
             "name": "Sibusiso",
             "surname": "Macwili",
