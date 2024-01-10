@@ -30,29 +30,54 @@
         {
             "id": 1,
             "year": 2019,
-            "description": "I Matriculated",
+            "description": "I matriculated",
             "place": "Bloubergrant High School",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+           
         },
         {
             "id": 2,
             "year": 2020,
-            "description": "I Started studing and working at Astron Energy",
+            "description": "Chemical Operations Learnership",
             "place": "Astron Energy Refinery",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+           
         },
         {
             "id": 3,
             "year": 2023,
-            "description": "I Started studying at BAB Developers",
+            "description": "Chemical Operations Learnership",
             "place": "BAB Developers",
-            "type": "certificate",
-            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
+           
+        },
+        {
+            "id": 4,
+            "year": 2023, "-" :2024,
+            "description": "Software Development",
+            "place": "Life Choices Academy",
+           
         }
        
     ],
+    "work experience":[{
+        "id":1,
+        "time": 2019, "-" :2020,
+        "name": "The Body Shop",
+        "description":,
+        "image": "https://drive.google.com/file/d/1LQFJYHLhRlT9R0JR347fIVS6UocKK5rg/view?usp=drive_link",
+    },{
+        "id":2,
+        "time": 2020, "-" :2022,
+        "name": "Astron Energy Refinery",
+        "description":,
+        "image": "https://drive.google.com/file/d/1GXs62BbbTqucwifq7ofoEtG4l3nsZ0Rc/view?usp=drive_link",
+    },
+    {
+        "id":3,
+        "time": 2023,
+        "name": "BAB Developers",
+        "description": ,
+        "image":"https://drive.google.com/file/d/1xEXOMX-AS9BFFARqUzc_8WDh09Cwp6oJ/view?usp=drive_link" ,
+    }
+],
     "skills": [
         {
             "title": "People Skills",
@@ -76,6 +101,14 @@
         {
             "title": "Vue-JS"
             
+        },
+        {
+            "title": "Fire-fighting"
+           
+        },
+        {
+            "title": "Work Permits"
+           
         }
 
     ],
@@ -105,10 +138,10 @@
           "profile": ""
         }, 
         {   "id": 5,
-            "name": "",
-            "surname": "",
-            "quotes": "",
-          "profile": ""
+            "name": "Zubaidah",
+            "surname": "Isaacs",
+            "quotes": "Ntokozo Sithebe is someone that is kind, funny and very hardworking. She is dedicated to her craft and always does her best in whatever, situation she finds herself in.",
+          "profile": "https://drive.google.com/uc?id=1vEgLYUnHGzqLdiuCNZeDx4Dh_jPYnyO5"
         }, 
        
         {   "id": 6,
